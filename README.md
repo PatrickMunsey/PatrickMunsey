@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**PatrickMunsey/PatrickMunsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Patrick Munsey, and I work with geospatial data.
 
-Here are some ideas to get you started:
+Co-founder and partner at [Aivia Group](www.aiviagroup.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+🌐 Capture, processing, and analysis of geospatial data
+
+🛩️ Aerial mapping
+
+🔍 Asset inspection
+
+📸 Photogrammetry
+
+🌆 Reality modeling
