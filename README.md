@@ -2,7 +2,7 @@
 
 I’m Patrick Munsey, and I work with geospatial data.
 
-Co-founder and partner at [Aivia Group](www.aiviagroup.com).
+Co-founder and partner at [Aivia Group](https://www.aiviagroup.com).
 
 ## What I Do
 🌐 Capture, processing, and analysis of geospatial data
